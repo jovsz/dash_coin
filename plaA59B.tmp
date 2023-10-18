@@ -81,7 +81,7 @@ metadata/_edit_group_ = true
 sprite_frames = SubResource("SpriteFrames_ja385")
 animation = &"idle"
 autoplay = "idle"
-frame_progress = 0.969638
+frame_progress = 0.426954
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, 5.5)
